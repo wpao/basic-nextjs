@@ -1,0 +1,9 @@
+.container {
+    height: 100px;
+    background-color: aquamarine;
+}
+
+.title {
+    text-align: center;
+    color: lightgray;
+}
